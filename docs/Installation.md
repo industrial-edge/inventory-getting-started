@@ -52,9 +52,9 @@ Hint: Username and password should be the same for all system apps, e.g. "edge" 
 
 Deploy and start the project.
 
-## Configure Machine Insight
+## Configure Iventory
 
-In your IED Web UI open the app Machine Insight Configurator.
+In your IED Web UI open the app Inventory Configurator.
 
 ### Configure Inventory Configurator
 
@@ -72,7 +72,7 @@ Based on these settings, the device data is displayed in the inventory applicati
 
 ### Configure Inventory Overview
 
-When you start the Inventory web application, the Scan Alert message is displayed as follows.
+When you start the web application "Inventory", click on "Scan" to start the scan.
 
 ![Inventory_Overview_Scan](graphics/Inventory_Scan.PNG)
 
