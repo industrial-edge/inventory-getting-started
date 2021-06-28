@@ -43,7 +43,7 @@ All important device information and firmware versions are displayed in detail.
 
 ### Used components
 
-- Industrial Edge Management (IEM) V1.2.0-36
+- Industrial Edge Management (IEM) V1.2.0-36 
 - Industrial Edge Device V 1.2.0-56
 - Device Scanner 1.0.2
 - Inventory Configuratior 1.0.5
