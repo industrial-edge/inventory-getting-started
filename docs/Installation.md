@@ -52,7 +52,7 @@ Hint: Username and password should be the same for all system apps, e.g. "edge" 
 
 Deploy and start the project.
 
-## Configure Iventory
+## Configure Inventory
 
 In your IED Web UI open the app Inventory Configurator.
 
